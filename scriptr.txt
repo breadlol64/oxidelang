@@ -1,0 +1,4 @@
+let x1 = 2;
+let yx2 = 34 + 8;
+print("x1+yx2 =");
+print(x1+ yx2);
