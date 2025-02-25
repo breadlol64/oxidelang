@@ -1,6 +1,8 @@
 # oxide
 for now has only lexer
-why the fuck visual studio shows my real name
+## build
+---
+idk use visual studio
 todo:
 - parser
 - idk
